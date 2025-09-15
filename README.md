@@ -2,6 +2,7 @@
 
 ## 💡 Información personal
 👨‍💻 Soy un programador junior de España, apasionado por la tecnología y la programación.
+<br>
 🚀 Programo desde 2022 y disfruto trabajando con diferentes tecnologías.
 🎓 Técnico Superior en Administración de Sistemas Informáticos en Red y estudiante de Desarrollo de Aplicaciones Multiplataforma.
 ⚡ También me encanta aprender sobre hardware, APIs y optimización de sistemas.
