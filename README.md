@@ -9,7 +9,7 @@
 ---
 
 ## 📩 Contact
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin&style=for-the-badge)](https://linkedin.com/)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/daniel-darmanin-casariego-1716ab371)  
 [![Email](https://img.shields.io/badge/Email-Contact-red?logo=gmail&style=for-the-badge)](mailto:darmanin.daniel@gmail.com)  
 
 ---
