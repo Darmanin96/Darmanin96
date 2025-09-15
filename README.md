@@ -1,10 +1,10 @@
-# Hi, I'm Daniel 👋  
+# Hola, Soy Daniel 👋  
 
-## 💡 Personal Info
-👨‍💻 I'm a junior programmer from Spain, passionate about technology and coding.  
-🚀 I’ve been programming since 2020 and enjoy working with different technologies.  
-🎓 Técnico Superior en Administración de Sistemas Informáticos en Red y estudiante de Desarrollo de Aplicaciones Multiplataforma.  
-⚡ I also love learning about hardware, APIs, and system optimization.  
+## 💡 Información personal
+👨‍💻 Soy un programador junior de España, apasionado por la tecnología y la programación.
+🚀 Programo desde 2022 y disfruto trabajando con diferentes tecnologías.
+🎓 Técnico Superior en Administración de Sistemas Informáticos en Red y estudiante de Desarrollo de Aplicaciones Multiplataforma.
+⚡ También me encanta aprender sobre hardware, APIs y optimización de sistemas.
 
 ---
 
@@ -22,15 +22,9 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html5" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css3" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="mysql" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
 </p>  
 
 ---
 
-## 📊 My Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&theme=radical)  
 
----
-
-✨ *Thanks for visiting my profile!*
+✨ *Gracias por visitar mi perfil!*
