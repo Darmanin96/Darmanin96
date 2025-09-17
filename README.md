@@ -5,7 +5,7 @@
 <br>
 🚀 Programo desde 2022 y disfruto trabajando con diferentes tecnologías.
 <br>
-🎓 Técnico Superior en Administración de Sistemas Informáticos en Red y estudiante de Desarrollo de Aplicaciones Multiplataforma.
+🎓 Técnico Superior en Administración de Sistemas Informáticos en Red y técnico de Desarrollo de Aplicaciones Multiplataforma.
 <br>
 ⚡ También me encanta aprender sobre hardware, APIs y optimización de sistemas.
 
