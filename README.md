@@ -11,13 +11,13 @@
 
 ---
 
-## 📩 Contact
+## 📩 Contacto
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/daniel-darmanin-casariego-1716ab371)  
 [![Email](https://img.shields.io/badge/Email-Contact-red?logo=gmail&style=for-the-badge)](mailto:darmanin.daniel@gmail.com)  
 
 ---
 
-## 🖥️ Programming Languages & Tools
+## 🖥️ Lenguajes de programación y herramientas
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/>
